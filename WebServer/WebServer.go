@@ -18,7 +18,7 @@ import (
 )
 
 /*
-helloWorld is a handler function that writes "Hello, World!" to the HTTP response.
+The helloWorld is a handler function that writes "Hello, World!" to the HTTP response.
 It matches the signature required by http.HandlerFunc.
 - w http.ResponseWriter: An interface used to send HTTP responses.
 - r *http.Request: A data structure that represents the client HTTP request.
